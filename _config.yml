@@ -1,0 +1,8 @@
+title: Lime
+description: Local Interpretable Model-Agnostic Explanations for machine learning classifiers.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
